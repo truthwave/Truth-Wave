@@ -4,7 +4,7 @@
 
 ## 🔧 スキルセット
 
-- 言語: Java / Python / JavaScript / C
+- 言語: Java / Python / JavaScript / C　etc.
 - フレームワーク: Spring Boot / Flask
 - その他: Git / Linux / MySQL / REST API設計
 - 個人開発: 株価予測アプリ、DNAの単鎖モデルをシミュレーションするアプリ etc.
