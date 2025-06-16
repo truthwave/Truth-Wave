@@ -7,7 +7,7 @@
 - 言語: Java / Python / JavaScript / C
 - フレームワーク: Spring Boot / Flask
 - その他: Git / Linux / MySQL / REST API設計
-- 個人開発: モバイルオーダー風Webアプリ、CLIツール etc.
+- 個人開発: 株価予測アプリ、DNAの単鎖モデルをシミュレーションするアプリ etc.
 
 ## 📫 連絡先
 ご相談やお仕事の依頼はお気軽にDM、またはココナラ経由でご連絡ください。
