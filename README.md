@@ -1,16 +1,13 @@
-## Hi there 👋
+# 自己紹介
 
-<!--
-**tomonori20000712/tomonori20000712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+こんにちは、大塚智紀と申します。現在、Webアプリ開発を中心に個人で活動しています。Java、Pythonなどを用いた開発や、要件定義から設計・実装・納品まで一貫して対応可能です。
 
-Here are some ideas to get you started:
+## 🔧 スキルセット
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 言語: Java / Python / JavaScript / C
+- フレームワーク: Spring Boot / Flask
+- その他: Git / Linux / MySQL / REST API設計
+- 個人開発: モバイルオーダー風Webアプリ、CLIツール etc.
+
+## 📫 連絡先
+ご相談やお仕事の依頼はお気軽にDM、またはココナラ経由でご連絡ください。
