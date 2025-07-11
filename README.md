@@ -1,45 +1,47 @@
-# 👋 はじめまして、ともプログラミング便りです！
+# 👋 Hi, I’m \[Your Name]
 
-Webアプリケーション開発を中心に、フリーランスで活動しています。  
-**Java / Python を使った開発**を得意としており、要件定義から設計・実装・納品まで、一貫して対応可能です。
+**ビジネス課題を技術で解決する、Webアプリ・AIツール開発エンジニア**
 
----
-
-## 🛠 スキルセット
-
-- **言語**: Java / Python / JavaScript / C
-- **フレームワーク**: Spring Boot / Flask
-- **ツール / その他**: Git / Linux / MySQL / REST API設計 / GitHub Actions
-- **開発スタイル**: 一人称での要件整理・UI設計・自動化の導入まで柔軟に対応
+SEとしてシステム開発に携わりながら、個人でも「誰が・なぜ使うのか」を意識したWebアプリやAIツールを開発しています。
+「作って終わり」ではなく、継続的に価値を提供するパートナーとしての関わり方を大切にしています。
 
 ---
 
-## 💡 個人開発の取り組み
+## 🔧 Skills & Tech Stack
 
-| プロジェクト名 | 概要 |
-|----------------|------|
-| 📈 株価予測アプリ | Pythonで株価を機械学習により予測するWebアプリ |
-| 🧬 DNA単鎖シミュレータ | C言語でDNAの挙動を数理モデル化し、ブラウザ上で可視化 |
-|  🥫 食品賞味期限管理アプリ | 家庭内の食品の賞味期限を簡単に管理 |
-
-（※詳細は順次リポジトリで公開中です）
+* **Languages:** TypeScript, JavaScript, Python, C, SQL, MUMPS
+* **Frameworks / Libraries:** Next.js, React, Node.js
+* **Databases:** Supabase, PostgreSQL
+* **AI / Automation:** OpenAI APIs, Zapier, Make
+* **Cloud / Tools:** Git, Docker, Vercel, Google Cloud, Notion, Slack
 
 ---
 
-## 📫 お問い合わせ
+## 💻 Projects (Selected)
 
-お気軽にご相談ください！
+### 🛠 Automation & AI
 
-- 💌 お仕事・ご相談はDMまたはココナラ経由で承ります
+* **業務プロセス自動化アシスタントGPT**
+  → Zapier/Make に対応し、フローや構成図を提案するAIツール
+* **人事データ処理アシスタントGPT**
+  → CSV整形やMUMPS・SQL生成で人事業務を効率化
+* **Next.js × Supabase × AIプロンプト管理アプリ**
+  → プロンプトの管理・共有を効率化するWebアプリ
 
----
+### 🏥 Healthcare & Medical
 
-## 🧭 今後について
+* **介護・医療記録文書自動生成GPT**
+  → 症状や支援内容を入力するだけで業界標準の文章を生成
+* **MUMPSコード生成＆解説GPT**
 
-- 2024年7月より本格的に独立予定
-- Webアプリ開発、個人向けの自動化ツール、業務効率化システムの構築に注力中
+### 🔬 Science
 
----
+* **DNA動態解析Cアプリ**
+  → DNAの構造安定性を視覚化
 
-🔔 ご覧いただき、ありがとうございます！  
-「GitHubのスター」や「フォロー」で応援いただけると励みになります🌱
+### 💰 Finance & Tax
+
+* **フリーランス確定申告・経費アドバイザーGPT**
+  → 確定申告や経費判断をサポート
+* **Python × AI自動投資戦略シミュレーションアプリ**
+  → 投資戦略を自動生成し、成績を可視化
