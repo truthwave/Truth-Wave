@@ -1,4 +1,4 @@
-# 👋 Hi, I’m ともプログラム便り
+# 👋 はじめまして, ともプログラム便りです。
 
 **ビジネス課題を技術で解決する Webアプリ・AIツール開発エンジニア**
 
@@ -7,13 +7,13 @@
 
 ---
 
-## 🔧 Skills & Tech Stack
+## 🔧 スキルと技術スタック
 
-* **Languages:** TypeScript, JavaScript, Python, C, SQL, MUMPS
-* **Frameworks / Libraries:** Next.js, React, Node.js
-* **Databases:** Supabase, PostgreSQL
-* **AI / Automation:** OpenAI APIs, Zapier, Make
-* **Cloud / Tools:** Git, Docker, Vercel, Google Cloud, Notion, Slack
+* **言語:** TypeScript, JavaScript, Python, C, SQL, MUMPS
+* **フレームワーク / ライブラリー:** Next.js, React, Node.js
+* **データベース:** Supabase, PostgreSQL
+* **AI / 自動化:** OpenAI APIs, Zapier, Make
+* **クラウド / ツール:** Git, Docker, Vercel, Google Cloud, Notion, Slack
 
 ---
 
@@ -39,12 +39,9 @@
 * **DNA動態解析Cアプリ**
   → DNA の構造安定性を視覚化
 
-### 💰 Finance & Tax
+### 💰 金融 & 税金
 
 * **フリーランス確定申告・経費アドバイザーGPT**
   → 確定申告や経費判断をサポートするAIアシスタント
 * **Python × AI自動投資戦略シミュレーションアプリ**
   → 投資戦略を自動生成し、成績を可視化
-
----
-
