@@ -1,5 +1,6 @@
 <p>
-  
+  <img width="1536" height="1024" alt="ともプログラム便り ビジネス課題を技術で解決する Webアプリ・AI開発エンジニア" src="https://github.com/user-attachments/assets/38d5b643-c413-430c-89ac-64fdec4c1ea0" />
+
 </p>
 
 > 業務効率化・AI活用・現場目線のWebアプリ。
