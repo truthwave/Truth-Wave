@@ -1,24 +1,30 @@
 <p>
-<img width="1536" height="1024" alt="ともプログラム便り ビジネス課題を技術で解決する Webアプリ・AI開発エンジニア (2)" src="https://github.com/user-attachments/assets/046c98fb-7436-4243-8608-3116004f33dd" />
   
 </p>
 
-# 👋 はじめまして, ともプログラム便りです。
+> 業務効率化・AI活用・現場目線のWebアプリ。
+> 小さな課題に、深く効くソリューションを届けます。
+
+---
+
+# 👋 はじめまして、ともプログラム便りです。
 
 **ビジネス課題を技術で解決する Webアプリ・AIツール開発エンジニア**
 
-業務システム開発に従事しながら、個人でも「誰が・なぜ使うのか」に徹底的にこだわり、WebアプリやAIツールを開発しています。
+業務システム開発に従事しながら、個人でもWebアプリやAIツールを開発しています。  
+「誰が・なぜ使うのか」に徹底的にこだわり、現場で“すぐに効く”ツールを設計しています。
+
 「作って終わり」ではなく、継続的に価値を提供するパートナーとして伴走することを大切にしています。
 
 ---
 
 ## 🔧 スキルと技術スタック
 
-* **言語:** TypeScript, JavaScript, Python, C, SQL, MUMPS
-* **フレームワーク / ライブラリー:** Next.js, React, Node.js
-* **データベース:** Supabase, PostgreSQL
-* **AI / 自動化:** OpenAI APIs, Zapier, Make
-* **クラウド / ツール:** Git, Docker, Vercel, Google Cloud, Notion, Slack
+- **言語:** TypeScript, JavaScript, Python, C, SQL, MUMPS  
+- **フレームワーク / ライブラリ:** Next.js, React, Node.js  
+- **データベース:** Supabase, PostgreSQL  
+- **AI / 自動化:** OpenAI APIs, Zapier, Make  
+- **クラウド / ツール:** Git, Docker, Vercel, Google Cloud, Notion, Slack
 
 ---
 
@@ -26,27 +32,47 @@
 
 ### 🛠 自動化・AI
 
-* **業務プロセス自動化アシスタントGPT**
+- **業務プロセス自動化アシスタントGPT**  
   → Zapier / Make に対応し、業務フローや構成図を提案するAIツール
-* **人事データ処理アシスタントGPT**
-  → CSV整形や MUMPS・SQL コード生成で人事業務を効率化
-* **Next.js × Supabase × AIプロンプト管理アプリ**
-  → プロンプトの管理・共有を効率化する Web アプリ
+
+- **人事データ処理アシスタントGPT**  
+  → CSV整形や MUMPS・SQL コード生成で人事業務を効率化  
+  （例：役職制限ロジック生成、社員台帳のフォーマット出力）
+
+- **Next.js × Supabase × AIプロンプト管理アプリ**  
+  → プロンプトの管理・共有を効率化するWebアプリケーション
 
 ### 🏥 医療・介護
 
-* **介護・医療記録文書自動生成GPT**
+- **介護・医療記録文書自動生成GPT**  
   → 症状や支援内容を入力するだけで、業界標準の文章を生成
-* **MUMPSコード生成＆解説GPT**
+
+- **MUMPSコード生成＆解説GPT**  
+  → 医療現場で使われるレガシー言語MUMPSへの対応を自動化
 
 ### 🔬 科学
 
-* **DNA動態解析Cアプリ**
-  → DNA の構造安定性を視覚化
+- **DNA動態解析Cアプリ**  
+  → DNAの構造安定性を可視化するスタンドアロンツール
 
-### 💰 金融 & 税金
+### 💰 金融・税務
 
-* **フリーランス確定申告・経費アドバイザーGPT**
-  → 確定申告や経費判断をサポートするAIアシスタント
-* **Python × AI自動投資戦略シミュレーションアプリ**
-  → 投資戦略を自動生成し、成績を可視化
+- **フリーランス確定申告・経費アドバイザーGPT**  
+  → 確定申告や経費判断を自然言語でサポートするAIアシスタント
+
+- **Python × AI自動投資戦略シミュレーションアプリ**  
+  → 仮説に基づく投資戦略をAIが生成、成績を可視化
+
+---
+
+## 📫 お問い合わせ
+
+何かコラボレーションのご相談があれば、お気軽にどうぞ。
+
+- GitHub: [TomoProgrammingDayori](https://github.com/TomoProgrammingDayori)  
+- X（旧Twitter）: [@tomopro_dayori](https://x.com/tomopro_dayori)  
+- クラウドワークス: [プロフィールはこちら](https://crowdworks.jp/public/employees/6067887)
+
+---
+
+> **「現場に効くものを、技術で、最速で。」**
