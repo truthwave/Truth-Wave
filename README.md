@@ -1,6 +1,5 @@
-<p>
+<p align="center">
   <img width="1536" height="1024" alt="ともプログラム便り ビジネス課題を技術で解決する Webアプリ・AI開発エンジニア" src="https://github.com/user-attachments/assets/38d5b643-c413-430c-89ac-64fdec4c1ea0" />
-
 </p>
 
 > 業務効率化・AI活用・現場目線のWebアプリ。
@@ -73,6 +72,8 @@
 - GitHub: [TomoProgrammingDayori](https://github.com/TomoProgrammingDayori)  
 - X（旧Twitter）: [@tomopro_dayori](https://x.com/tomopro_dayori)  
 - クラウドワークス: [プロフィールはこちら](https://crowdworks.jp/public/employees/6067887)
+- メール:[📩 ご相談・お見積もりはこちら](mailto:realmadrid71214591@gmail.com)
+
 
 ---
 
