@@ -78,8 +78,8 @@
 
 何かコラボレーションのご相談があれば、お気軽にどうぞ。
 
-- GitHub: [TomoProgrammingDayori](https://github.com/TomoAIDayori)  
-- X（旧Twitter）: [@tomopro_dayori](https://x.com/tomoAI_dayori)  
+- GitHub: [TomoAIDayori](https://github.com/TomoAIDayori)  
+- X（旧Twitter）: [@tomoAI_dayori](https://x.com/tomoAI_dayori)  
 - クラウドワークス: [プロフィールはこちら](https://crowdworks.jp/public/employees/6067887)
 - メール:[📩 ご相談・お見積もりはこちら](mailto:realmadrid71214591@gmail.com)
 
