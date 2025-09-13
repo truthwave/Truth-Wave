@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Tomo Programming Dayori
+# 👋 Hi, I’m Truth Wave
 
 **Web App & AI Tool Developer Solving Business Challenges with Technology**
 
