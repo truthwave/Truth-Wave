@@ -8,7 +8,7 @@
 
 ---
 
-# 👋 はじめまして、ともAI便りです。
+# 👋 はじめまして、Truth Wave ― 真理の波です。
 
 **ビジネス課題を技術で解決する Webアプリ・AIツール開発エンジニア**
 
@@ -78,8 +78,8 @@
 
 何かコラボレーションのご相談があれば、お気軽にどうぞ。
 
-- GitHub: [TomoAIDayori](https://github.com/TomoAIDayori)  
-- X（旧Twitter）: [@tomoAI_dayori](https://x.com/tomoAI_dayori)  
+- GitHub: [Truth Wave ― 真理の波](https://github.com/TomoAIDayori)  
+- X（旧Twitter）: [@Truth Wave ― 真理の波](https://x.com/Truth__Wave)  
 - クラウドワークス: [プロフィールはこちら](https://crowdworks.jp/public/employees/6067887)
 - メール:[📩 ご相談・お見積もりはこちら](mailto:realmadrid71214591@gmail.com)
 
