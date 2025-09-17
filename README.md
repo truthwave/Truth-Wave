@@ -1,5 +1,6 @@
 <p align="center">
-<img width="1536" height="1024" alt="ともプログラム便り ビジネス課題を技術で解決する Webアプリ・AI開発エンジニア" src="https://github.com/user-attachments/assets/6286844d-b177-4a70-a76f-b85696103e2c" />
+
+<img width="1536" height="1024" alt="ともプログラム便り ビジネス課題を技術で解決する Webアプリ・AI開発エンジニア" src="https://github.com/user-attachments/assets/6f41be70-94c1-4fd2-8a42-8c69e2bbaa35" />
 
 
 </p>
