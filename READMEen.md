@@ -52,6 +52,3 @@ Feel free to reach out for any collaboration inquiries.
 
 **Truth Wave**  
 Truth spreads like a wave.
-
-
-Translated with DeepL.com (free version)
