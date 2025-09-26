@@ -49,9 +49,6 @@ By letting AI handle summaries, draft replies, and tone adjustments, you can foc
 🛒 [Consult/Purchase on Coconala](https://coconala.com/contents_market/pictures/cmf3ndqpl00xr6s0houn6itv9)  
 
 ---
----
-
-Translated with DeepL.com (free version)
 
 ---
 
