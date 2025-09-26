@@ -27,7 +27,7 @@ but as **partners with a shared vision**.
 The world of investing can't be defined by numbers alone.  
 We train AI in the philosophy of “long-term investing with conviction,” providing a framework for decision-making.  
 By merging data analysis with human thought processes, we support more reliable decision-making.  
-👉 [GitHub Repository](https://github.com/truthwave/Buffett-Graham-GPTs)  
+👉 [GitHub Repository](https://github.com/truthwave/Buffett-Graham-GPTs/tree/main/English)  
 🛒 [Consult/Purchase on Coconala](https://coconala.com/contents_market/pictures/cmez6ftdz0sjh6m0h0xdbo1gs)  
 
 ---
@@ -36,7 +36,7 @@ By merging data analysis with human thought processes, we support more reliable 
 For freelancers and small business owners, taxes are the biggest obstacle to creativity.  
 Automate everything from organizing receipts to estimating tax amounts, freeing up time to focus on your core work.  
 A tool embodying the truth that “time is finite.”  
-👉 [GitHub Repository](https://github.com/truthwave/-Freelance-Tax-Expense-Advisor)  
+👉 [GitHub Repository](https://github.com/truthwave/-Freelance-Tax-Expense-Advisor/tree/main/English)  
 🛒 [Consult/Purchase on Coconala](https://coconala.com/contents_market/pictures/cmfhhn9he01pv8n0hj53pku8q)  
 
 ---
@@ -45,7 +45,7 @@ A tool embodying the truth that “time is finite.”
 Most of your day vanishes into emails.  
 By letting AI handle summaries, draft replies, and tone adjustments, you can focus solely on conveying what truly matters.  
 “Streamlining communication enriches your thinking” – this embodies that principle.  
-👉 [GitHub Repository](https://github.com/truthwave/mail-efficiency-gpts)  
+👉 [GitHub Repository](https://github.com/truthwave/mail-efficiency-gpts/tree/main/English)  
 🛒 [Consult/Purchase on Coconala](https://coconala.com/contents_market/pictures/cmf3ndqpl00xr6s0houn6itv9)  
 
 ---
