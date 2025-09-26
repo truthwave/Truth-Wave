@@ -27,16 +27,16 @@ Truth Wave は単なる開発者ではなく、
 
 ### 💼 バフェット・グレアムGPT  
 投資の世界は数字だけでは語れない。  
-「思想を持った長期投資」という哲学をAIに学習させ、判断の軸を提供する。  
-データ分析と人間の思考法を融合し、より確かな意思決定をサポートする。  
+「思想を持った長期投資」という哲学をAIに学習させ、判断の軸を提供します。  
+データ分析と人間の思考法を融合し、より確かな意思決定をサポートします。  
 👉 [GitHubリポジトリ](https://github.com/truthwave/Buffett-Graham-GPTs)  
 🛒 [ココナラで相談・購入](https://coconala.com/contents_market/pictures/cmez6ftdz0sjh6m0h0xdbo1gs)  
 
 ---
 
 ### 📊 確定申告アドバイザーGPT  
-フリーランスや小規模事業者にとって、税務は創造性を奪う最大の障害だ。  
-領収書の整理から税額の試算までを自動化し、本来の仕事に集中できる時間を取り戻す。  
+フリーランスや小規模事業者にとって、税務は創造性を奪う最大の障害です。  
+領収書の整理から税額の試算までを自動化し、本来の仕事に集中できる時間を取り戻します。  
 「時間は有限」という真理を形にしたツール。  
 👉 [GitHubリポジトリ](https://github.com/truthwave/-Freelance-Tax-Expense-Advisor)  
 🛒 [ココナラで相談・購入](https://coconala.com/contents_market/pictures/cmfhhn9he01pv8n0hj53pku8q)  
@@ -45,8 +45,8 @@ Truth Wave は単なる開発者ではなく、
 
 ### 📩 メール効率化GPT  
 一日の多くはメールに消えていく。  
-要約、返信草案、トーン調整をAIが担うことで、伝えるべき本質だけに集中できる。  
-「コミュニケーションを効率化することは、思考を豊かにすること」――それを体現する。  
+要約、返信草案、トーン調整をAIが担うことで、伝えるべき本質だけに集中できます。  
+「コミュニケーションを効率化することは、思考を豊かにすること」――それを体現します。  
 👉 [GitHubリポジトリ](https://github.com/truthwave/mail-efficiency-gpts)  
 🛒 [ココナラで相談・購入](https://coconala.com/contents_market/pictures/cmf3ndqpl00xr6s0houn6itv9)  
 
