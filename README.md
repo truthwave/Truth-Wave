@@ -52,10 +52,6 @@ Truth Wave は単なる開発者ではなく、
 
 ---
 
-
-
----
-
 ## 🛠 Trust & Skills
 - [Microsoft公式「生成AIによる生産性向上」講座 修了](https://github.com/truthwave/ai-productivity-cert-practical-output)  
 - 本業でのSE経験 + 個人開発でのWeb/AI実績  
