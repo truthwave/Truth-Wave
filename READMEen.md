@@ -6,6 +6,12 @@
 </p>
 
 ---
+<img width="1280" height="720" alt="Truth Wave (3)" src="https://github.com/user-attachments/assets/53ed7b48-299e-494b-b6f5-421abad0ae7c" />
+
+## 📺 Watch onYoutube
+[![Leave only judgment. — Truth Wave 60-Second Manifesto](https://github.com/user-attachments/assets/53ed7b48-299e-494b-b6f5-421abad0ae7c)](https://youtu.be/LDevuUGdPAU)
+
+---
 
 ## 🌌 Philosophy
 Discover the essence and spread it like ripples.  
