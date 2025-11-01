@@ -6,7 +6,6 @@
 **真理は、波となって広がる。**
 
 ---
-<img width="1280" height="720" alt="Truth Wave (2)" src="https://github.com/user-attachments/assets/7ba460dd-d477-4a5b-8fb0-ebdc02071a2e" />
 
 ## 📺 Watch onYoutube
 [![判断だけを残す。— Truth Wave 60秒マニフェスト](https://github.com/user-attachments/assets/7ba460dd-d477-4a5b-8fb0-ebdc02071a2e)](https://youtu.be/LDevuUGdPAU)
