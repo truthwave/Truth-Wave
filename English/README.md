@@ -57,8 +57,6 @@ By letting AI handle summaries, draft replies, and tone adjustments, you can foc
 
 ---
 
----
-
 ## 🛠 Trust & Skills  
 - [Completed Microsoft Official “Boosting Productivity with Generative AI” Course](https://github.com/truthwave/ai-productivity-cert-practical-output/tree/main/English)  
 - SE experience in main job + Web/AI achievements in personal development  
