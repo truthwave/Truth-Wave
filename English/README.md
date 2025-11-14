@@ -66,7 +66,8 @@ By letting AI handle summaries, draft replies, and tone adjustments, you can foc
 ## 🤝 Contact  
 Feel free to reach out for any collaboration inquiries.
 
-- GitHub: [Truth Wave](https://github.com/truthwave)  
+- GitHub: [Truth Wave](https://github.com/truthwave)
+- note:[Truth Wave](https://note.com/truth_wave)
 - X (formerly Twitter): [@Truth Wave](https://x.com/Truth__Wave)  
 - CrowdWorks: [Profile Here](https://crowdworks.jp/public/employees/6067887)
 - Email: [📩 Inquiries & Quotes](mailto:realmadrid71214591@gmail.com)
