@@ -35,7 +35,7 @@ Truth Wave は単なる開発者ではなく、
 「思想を持った長期投資」という哲学をAIに学習させ、判断の軸を提供します。  
 データ分析と人間の思考法を融合し、より確かな意思決定をサポートします。  
 👉 [GitHubリポジトリ](https://github.com/truthwave/Buffett-Graham-GPTs)  
-🛒 [ココナラで相談・購入](https://coconala.com/contents_market/pictures/cmez6ftdz0sjh6m0h0xdbo1gs)  
+🛒 [noteで相談・購入](https://note.com/truth_wave/n/n92be6e1aca01)  
 
 ---
 
@@ -53,7 +53,7 @@ Truth Wave は単なる開発者ではなく、
 要約、返信草案、トーン調整をAIが担うことで、伝えるべき本質だけに集中できます。  
 「コミュニケーションを効率化することは、思考を豊かにすること」――それを体現します。  
 👉 [GitHubリポジトリ](https://github.com/truthwave/mail-efficiency-gpts)  
-🛒 [ココナラで相談・購入](https://coconala.com/contents_market/pictures/cmf3ndqpl00xr6s0houn6itv9)  
+🛒 [noteで相談・購入](https://note.com/truth_wave/n/n61c5d3749404)  
 
 ---
 
