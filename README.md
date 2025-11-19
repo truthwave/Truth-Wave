@@ -44,7 +44,7 @@ Truth Wave は単なる開発者ではなく、
 領収書の整理から税額の試算までを自動化し、本来の仕事に集中できる時間を取り戻します。  
 「時間は有限」という真理を形にしたツール。  
 👉 [GitHubリポジトリ](https://github.com/truthwave/-Freelance-Tax-Expense-Advisor)  
-🛒 [ココナラで相談・購入](https://coconala.com/contents_market/pictures/cmfhhn9he01pv8n0hj53pku8q)  
+🛒 [noteで相談・購入](https://note.com/truth_wave/n/nff6385369a64)  
 
 ---
 
