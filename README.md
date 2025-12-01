@@ -1,4 +1,4 @@
-### [English](https://github.com/truthwave/truthwave/tree/main/English)
+### 👉[English](https://github.com/truthwave/truthwave/tree/main/English)
 
 <p align="center">
 <img width="1536" height="1024" alt="ともプログラム便り ビジネス課題を技術で解決する Webアプリ・AI開発エンジニア" src="https://github.com/user-attachments/assets/a1b08baa-2084-4daf-b80d-5d8b434e628c" />
