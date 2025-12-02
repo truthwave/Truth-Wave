@@ -71,7 +71,6 @@ Truth Wave は単なる開発者ではなく、
 - GitHub: [Truth Wave ― 真理の波](https://github.com/truthwave)
 - note:[Truth Wave ― 真理の波](https://note.com/truth_wave)
 - X（旧Twitter）: [@Truth Wave ― 真理の波](https://x.com/Truth__Wave)  
-- クラウドワークス: [プロフィールはこちら](https://crowdworks.jp/public/employees/6067887)
 - メール:[📩 ご相談・お見積もりはこちら](mailto:realmadrid71214591@gmail.com)
 
 ---
