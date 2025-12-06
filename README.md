@@ -9,7 +9,7 @@
 
 ---
 
-## 📺 Watch onYoutube
+## 📺 Watch on Youtube
 [![判断だけを残す。— Truth Wave 60秒マニフェスト](https://github.com/user-attachments/assets/7ba460dd-d477-4a5b-8fb0-ebdc02071a2e)](https://youtu.be/LDevuUGdPAU)
 
 ---
